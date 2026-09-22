@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Bit & Bend
+  pageTitle: BitBend
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -218,7 +218,7 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: bitbend/bit-and-bend
+        repo: bitbend/bit-blog
         repoId: R_kgDONWz2yw
         category: Q&A
         categoryId: DIC_kwDONWz2y84Ckvl-

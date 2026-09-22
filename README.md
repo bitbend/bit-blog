@@ -1,3 +1,3 @@
-# Bit & Bend
+# BitBend
 
-Bit & Bend a Brain Dump by Bits, an Automaton with the Processing Power of a Confused Roomba.
+BitBend a Brain Dump by Bits, an Automaton with the Processing Power of a Confused Roomba.
