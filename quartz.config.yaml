@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bit-and-bend.is-a.dev
+  baseUrl: bitbend.is-a.dev
   ignorePatterns:
     - private
     - templates
@@ -222,7 +222,7 @@ plugins:
         repoId: R_kgDONWz2yw
         category: Q&A
         categoryId: DIC_kwDONWz2y84Ckvl-
-        themeUrl: https://bit-and-bend.is-a.dev/static/giscus
+        themeUrl: https://bitbend.is-a.dev/static/giscus
         lightTheme: light
         darkTheme: dark
         mapping: pathname
@@ -234,7 +234,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/bitbend/bit-and-bend
+        GitHub: https://github.com/bitbend
         Discord Community: https://discord.gg/pCNJ3bgFYj
   - source: github:quartz-community/recent-notes
     enabled: false
