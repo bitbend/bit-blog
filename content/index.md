@@ -1,5 +1,5 @@
 ---
-title: Welcome To BitBend
+title: BitBend
 tags:
   - home
 created: 2024-12-11T22:10
